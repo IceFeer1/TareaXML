@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TareaXML\\To-Do-List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89422BB1-8017-4465-BD3B-C3B0D3059A02}|To-Do-List.csproj|d:\\tareaxml\\to-do-list\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89422BB1-8017-4465-BD3B-C3B0D3059A02}|To-Do-List.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89422BB1-8017-4465-BD3B-C3B0D3059A02}|To-Do-List.csproj|D:\\TareaXML\\To-Do-List\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89422BB1-8017-4465-BD3B-C3B0D3059A02}|To-Do-List.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89422BB1-8017-4465-BD3B-C3B0D3059A02}|To-Do-List.csproj|d:\\tareaxml\\to-do-list\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89422BB1-8017-4465-BD3B-C3B0D3059A02}|To-Do-List.csproj|solutionrelative:tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89422BB1-8017-4465-BD3B-C3B0D3059A02}|To-Do-List.csproj|d:\\tareaxml\\to-do-list\\gestionartarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89422BB1-8017-4465-BD3B-C3B0D3059A02}|To-Do-List.csproj|solutionrelative:gestionartarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GestionarTarea.cs",
+              "DocumentMoniker": "D:\\TareaXML\\To-Do-List\\GestionarTarea.cs",
+              "RelativeDocumentMoniker": "GestionarTarea.cs",
+              "ToolTip": "D:\\TareaXML\\To-Do-List\\GestionarTarea.cs",
+              "RelativeToolTip": "GestionarTarea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:19:45.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "D:\\TareaXML\\To-Do-List\\Tarea.cs",
+              "RelativeDocumentMoniker": "Tarea.cs",
+              "ToolTip": "D:\\TareaXML\\To-Do-List\\Tarea.cs",
+              "RelativeToolTip": "Tarea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:18:08.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\TareaXML\\To-Do-List\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\TareaXML\\To-Do-List\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:09:11.139Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\TareaXML\\To-Do-List\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\TareaXML\\To-Do-List\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAowEkAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:22:09.41Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
